@@ -54,7 +54,6 @@ function ServicesSection() {
 }
 
 const Services = styled(About)`
-  border: 1px solid;
   font-size: 0.7rem;
   h2 {
     padding-bottom: 3.5rem;
